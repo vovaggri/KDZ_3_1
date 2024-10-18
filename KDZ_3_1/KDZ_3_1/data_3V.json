@@ -1,0 +1,1259 @@
+[
+  {
+    "customer_id": 1,
+    "name": "Cody Garcia",
+    "email": "duncanjudy@example.net",
+    "age": 62,
+    "city": "Westfort",
+    "is_premium": true,
+    "purchases": [
+      "may",
+      "which"
+    ]
+  },
+  {
+    "customer_id": 2,
+    "name": "Crystal West",
+    "email": "carmenpage@example.org",
+    "age": 24,
+    "city": "West Matthewville",
+    "is_premium": false,
+    "purchases": [
+      "state"
+    ]
+  },
+  {
+    "customer_id": 3,
+    "name": "Brenda Rodgers",
+    "email": "victoria92@example.com",
+    "age": 50,
+    "city": "Turnershire",
+    "is_premium": true,
+    "purchases": [
+      "voice",
+      "activity",
+      "physical",
+      "hit"
+    ]
+  },
+  {
+    "customer_id": 4,
+    "name": "Connie Hester",
+    "email": "katherinewise@example.org",
+    "age": 42,
+    "city": "Williamston",
+    "is_premium": true,
+    "purchases": [
+      "far",
+      "catch"
+    ]
+  },
+  {
+    "customer_id": 5,
+    "name": "Justin Sanders",
+    "email": "zbuck@example.net",
+    "age": 31,
+    "city": "Port Caitlinport",
+    "is_premium": true,
+    "purchases": [
+      "father",
+      "son",
+      "model"
+    ]
+  },
+  {
+    "customer_id": 6,
+    "name": "Jay Mathews",
+    "email": "nclarke@example.com",
+    "age": 51,
+    "city": "Lake Josephborough",
+    "is_premium": true,
+    "purchases": [
+      "military",
+      "system"
+    ]
+  },
+  {
+    "customer_id": 7,
+    "name": "Brian Williams",
+    "email": "petersonchad@example.org",
+    "age": 58,
+    "city": "Jeremiahhaven",
+    "is_premium": true,
+    "purchases": [
+      "sense",
+      "ask",
+      "property"
+    ]
+  },
+  {
+    "customer_id": 8,
+    "name": "Tracy White",
+    "email": "bcampbell@example.net",
+    "age": 33,
+    "city": "Ashleyshire",
+    "is_premium": true,
+    "purchases": [
+      "positive",
+      "attorney",
+      "recognize",
+      "high"
+    ]
+  },
+  {
+    "customer_id": 9,
+    "name": "Brittany Morales",
+    "email": "rgray@example.org",
+    "age": 54,
+    "city": "Davisburgh",
+    "is_premium": false,
+    "purchases": [
+      "join"
+    ]
+  },
+  {
+    "customer_id": 10,
+    "name": "Jessica Black",
+    "email": "marklopez@example.com",
+    "age": 31,
+    "city": "Baileymouth",
+    "is_premium": false,
+    "purchases": [
+      "say",
+      "never",
+      "game"
+    ]
+  },
+  {
+    "customer_id": 11,
+    "name": "Charles Acosta",
+    "email": "sonya88@example.com",
+    "age": 31,
+    "city": "Melissachester",
+    "is_premium": true,
+    "purchases": [
+      "stay",
+      "practice",
+      "hold",
+      "authority"
+    ]
+  },
+  {
+    "customer_id": 12,
+    "name": "Cindy Combs",
+    "email": "john90@example.net",
+    "age": 33,
+    "city": "New Angelfurt",
+    "is_premium": true,
+    "purchases": [
+      "technology",
+      "hundred",
+      "well",
+      "thing"
+    ]
+  },
+  {
+    "customer_id": 13,
+    "name": "Wyatt Gray",
+    "email": "doneal@example.com",
+    "age": 65,
+    "city": "Cookeport",
+    "is_premium": false,
+    "purchases": [
+      "hand",
+      "girl",
+      "behind"
+    ]
+  },
+  {
+    "customer_id": 14,
+    "name": "Melanie Crawford",
+    "email": "haynessharon@example.net",
+    "age": 60,
+    "city": "Marilynstad",
+    "is_premium": true,
+    "purchases": [
+      "your",
+      "fear",
+      "official"
+    ]
+  },
+  {
+    "customer_id": 15,
+    "name": "Matthew Taylor",
+    "email": "arnoldnicole@example.net",
+    "age": 55,
+    "city": "Robertstad",
+    "is_premium": true,
+    "purchases": [
+      "cover",
+      "I"
+    ]
+  },
+  {
+    "customer_id": 16,
+    "name": "Colleen Matthews",
+    "email": "mdonovan@example.com",
+    "age": 26,
+    "city": "Dodsonside",
+    "is_premium": false,
+    "purchases": [
+      "network",
+      "citizen",
+      "control"
+    ]
+  },
+  {
+    "customer_id": 17,
+    "name": "Hannah Newton",
+    "email": "josephgomez@example.org",
+    "age": 61,
+    "city": "West Justinview",
+    "is_premium": true,
+    "purchases": [
+      "close",
+      "type",
+      "growth",
+      "well"
+    ]
+  },
+  {
+    "customer_id": 18,
+    "name": "Jimmy Walker",
+    "email": "williamscolin@example.org",
+    "age": 34,
+    "city": "Port Brittany",
+    "is_premium": true,
+    "purchases": [
+      "part",
+      "week",
+      "today",
+      "blood"
+    ]
+  },
+  {
+    "customer_id": 19,
+    "name": "Joseph Stephenson",
+    "email": "robertsbecky@example.net",
+    "age": 57,
+    "city": "Danielmouth",
+    "is_premium": false,
+    "purchases": [
+      "somebody",
+      "Mrs",
+      "fight"
+    ]
+  },
+  {
+    "customer_id": 20,
+    "name": "Trevor Woodard",
+    "email": "daniellindsey@example.net",
+    "age": 53,
+    "city": "North Sara",
+    "is_premium": false,
+    "purchases": [
+      "sort",
+      "east"
+    ]
+  },
+  {
+    "customer_id": 21,
+    "name": "Emma Martin",
+    "email": "miguelbell@example.com",
+    "age": 63,
+    "city": "North Alexanderhaven",
+    "is_premium": false,
+    "purchases": [
+      "billion",
+      "will"
+    ]
+  },
+  {
+    "customer_id": 22,
+    "name": "Garrett Jones",
+    "email": "washingtonmichael@example.org",
+    "age": 51,
+    "city": "Jasonhaven",
+    "is_premium": false,
+    "purchases": [
+      "center",
+      "talk"
+    ]
+  },
+  {
+    "customer_id": 23,
+    "name": "Jacob Hernandez",
+    "email": "richard71@example.org",
+    "age": 37,
+    "city": "West Christopherstad",
+    "is_premium": true,
+    "purchases": [
+      "turn",
+      "society",
+      "inside"
+    ]
+  },
+  {
+    "customer_id": 24,
+    "name": "Keith Jackson",
+    "email": "thomas59@example.org",
+    "age": 22,
+    "city": "North Karen",
+    "is_premium": true,
+    "purchases": [
+      "deal",
+      "once"
+    ]
+  },
+  {
+    "customer_id": 25,
+    "name": "Mr. Zachary Spears DDS",
+    "email": "mary41@example.net",
+    "age": 36,
+    "city": "West Melissa",
+    "is_premium": true,
+    "purchases": [
+      "truth"
+    ]
+  },
+  {
+    "customer_id": 26,
+    "name": "Bryce Martinez",
+    "email": "ichavez@example.org",
+    "age": 49,
+    "city": "Sarafort",
+    "is_premium": true,
+    "purchases": [
+      "beautiful",
+      "computer",
+      "machine",
+      "speak"
+    ]
+  },
+  {
+    "customer_id": 27,
+    "name": "Vanessa Evans",
+    "email": "dryan@example.com",
+    "age": 47,
+    "city": "West Christopher",
+    "is_premium": false,
+    "purchases": [
+      "wonder",
+      "another",
+      "property"
+    ]
+  },
+  {
+    "customer_id": 28,
+    "name": "Julie Stokes",
+    "email": "donaldsantana@example.net",
+    "age": 21,
+    "city": "Lake Brittney",
+    "is_premium": false,
+    "purchases": [
+      "perform",
+      "peace"
+    ]
+  },
+  {
+    "customer_id": 29,
+    "name": "Matthew Pierce",
+    "email": "millerjohn@example.com",
+    "age": 20,
+    "city": "West Mallory",
+    "is_premium": true,
+    "purchases": [
+      "necessary",
+      "vote",
+      "shake"
+    ]
+  },
+  {
+    "customer_id": 30,
+    "name": "Gregory Perkins",
+    "email": "tonyaneal@example.net",
+    "age": 36,
+    "city": "Crystaltown",
+    "is_premium": false,
+    "purchases": [
+      "song",
+      "book",
+      "personal"
+    ]
+  },
+  {
+    "customer_id": 31,
+    "name": "Michael Robbins",
+    "email": "murraybradley@example.net",
+    "age": 54,
+    "city": "West Stephen",
+    "is_premium": true,
+    "purchases": [
+      "idea",
+      "player"
+    ]
+  },
+  {
+    "customer_id": 32,
+    "name": "Miguel Martin",
+    "email": "brucemorrison@example.org",
+    "age": 49,
+    "city": "Paulaton",
+    "is_premium": true,
+    "purchases": [
+      "soon"
+    ]
+  },
+  {
+    "customer_id": 33,
+    "name": "Melinda Obrien",
+    "email": "goodsarah@example.com",
+    "age": 18,
+    "city": "West Christopherview",
+    "is_premium": true,
+    "purchases": [
+      "me",
+      "easy",
+      "table",
+      "today"
+    ]
+  },
+  {
+    "customer_id": 34,
+    "name": "Joshua Wiggins",
+    "email": "zvasquez@example.org",
+    "age": 47,
+    "city": "North Matthew",
+    "is_premium": true,
+    "purchases": [
+      "paper",
+      "hard",
+      "risk",
+      "good"
+    ]
+  },
+  {
+    "customer_id": 35,
+    "name": "Andrea Malone",
+    "email": "christinewebb@example.net",
+    "age": 23,
+    "city": "Christineview",
+    "is_premium": false,
+    "purchases": [
+      "morning",
+      "opportunity",
+      "whose"
+    ]
+  },
+  {
+    "customer_id": 36,
+    "name": "Brandon Brooks",
+    "email": "jessicawhite@example.com",
+    "age": 22,
+    "city": "Bautistachester",
+    "is_premium": true,
+    "purchases": [
+      "third",
+      "threat",
+      "claim"
+    ]
+  },
+  {
+    "customer_id": 37,
+    "name": "Michelle Smith",
+    "email": "byrdjohn@example.net",
+    "age": 44,
+    "city": "Christopherstad",
+    "is_premium": false,
+    "purchases": [
+      "nation",
+      "live"
+    ]
+  },
+  {
+    "customer_id": 38,
+    "name": "Candace Carlson",
+    "email": "sfloyd@example.com",
+    "age": 35,
+    "city": "Whiteberg",
+    "is_premium": false,
+    "purchases": [
+      "alone"
+    ]
+  },
+  {
+    "customer_id": 39,
+    "name": "Matthew Wheeler",
+    "email": "michaelwalker@example.net",
+    "age": 46,
+    "city": "Jamesberg",
+    "is_premium": true,
+    "purchases": [
+      "cell"
+    ]
+  },
+  {
+    "customer_id": 40,
+    "name": "Melinda Hill",
+    "email": "znovak@example.org",
+    "age": 59,
+    "city": "South Erica",
+    "is_premium": true,
+    "purchases": [
+      "exist",
+      "difficult",
+      "especially"
+    ]
+  },
+  {
+    "customer_id": 41,
+    "name": "Virginia Thomas",
+    "email": "bryan78@example.com",
+    "age": 56,
+    "city": "Haynesstad",
+    "is_premium": true,
+    "purchases": [
+      "mouth",
+      "prepare"
+    ]
+  },
+  {
+    "customer_id": 42,
+    "name": "Randy Richards",
+    "email": "zhanglisa@example.org",
+    "age": 27,
+    "city": "Lake Christineburgh",
+    "is_premium": false,
+    "purchases": [
+      "dinner",
+      "meeting",
+      "bad",
+      "claim"
+    ]
+  },
+  {
+    "customer_id": 43,
+    "name": "Jonathan Wilson",
+    "email": "scott62@example.org",
+    "age": 65,
+    "city": "East Jefferyhaven",
+    "is_premium": true,
+    "purchases": [
+      "cause",
+      "plant"
+    ]
+  },
+  {
+    "customer_id": 44,
+    "name": "David Garcia",
+    "email": "danielscott@example.org",
+    "age": 65,
+    "city": "Marcusbury",
+    "is_premium": true,
+    "purchases": [
+      "evidence",
+      "area",
+      "necessary"
+    ]
+  },
+  {
+    "customer_id": 45,
+    "name": "David Yoder MD",
+    "email": "leeteresa@example.com",
+    "age": 19,
+    "city": "East Shirley",
+    "is_premium": true,
+    "purchases": [
+      "order",
+      "north",
+      "sure"
+    ]
+  },
+  {
+    "customer_id": 46,
+    "name": "Cody Brown",
+    "email": "matthewmorgan@example.org",
+    "age": 36,
+    "city": "Hammondmouth",
+    "is_premium": false,
+    "purchases": [
+      "could",
+      "foreign",
+      "either"
+    ]
+  },
+  {
+    "customer_id": 47,
+    "name": "Joshua Brock",
+    "email": "lharper@example.org",
+    "age": 33,
+    "city": "Robertfort",
+    "is_premium": false,
+    "purchases": [
+      "tonight",
+      "first"
+    ]
+  },
+  {
+    "customer_id": 48,
+    "name": "Candice Marshall",
+    "email": "perkinsshannon@example.org",
+    "age": 34,
+    "city": "Hugheston",
+    "is_premium": true,
+    "purchases": [
+      "whatever",
+      "number"
+    ]
+  },
+  {
+    "customer_id": 49,
+    "name": "Molly King",
+    "email": "jesse31@example.net",
+    "age": 58,
+    "city": "Michaelfort",
+    "is_premium": false,
+    "purchases": [
+      "stuff",
+      "experience",
+      "car",
+      "here"
+    ]
+  },
+  {
+    "customer_id": 50,
+    "name": "Jennifer Lloyd",
+    "email": "carriecollins@example.org",
+    "age": 39,
+    "city": "Brownmouth",
+    "is_premium": false,
+    "purchases": [
+      "color"
+    ]
+  },
+  {
+    "customer_id": 51,
+    "name": "Sharon Romero",
+    "email": "evancarr@example.com",
+    "age": 42,
+    "city": "Port Cindymouth",
+    "is_premium": true,
+    "purchases": [
+      "before"
+    ]
+  },
+  {
+    "customer_id": 52,
+    "name": "Zachary Burns",
+    "email": "andrewmartinez@example.org",
+    "age": 33,
+    "city": "Hollymouth",
+    "is_premium": false,
+    "purchases": [
+      "part"
+    ]
+  },
+  {
+    "customer_id": 53,
+    "name": "Matthew Tran",
+    "email": "jasonmcintyre@example.net",
+    "age": 55,
+    "city": "Stevenberg",
+    "is_premium": false,
+    "purchases": [
+      "close",
+      "space",
+      "both",
+      "push"
+    ]
+  },
+  {
+    "customer_id": 54,
+    "name": "Virginia Mccall",
+    "email": "enorton@example.org",
+    "age": 35,
+    "city": "New Ashleyburgh",
+    "is_premium": true,
+    "purchases": [
+      "top",
+      "director",
+      "hard",
+      "the"
+    ]
+  },
+  {
+    "customer_id": 55,
+    "name": "Nicholas Cole",
+    "email": "ortizlisa@example.net",
+    "age": 22,
+    "city": "Powellmouth",
+    "is_premium": false,
+    "purchases": [
+      "us",
+      "last"
+    ]
+  },
+  {
+    "customer_id": 56,
+    "name": "Kimberly Sanchez",
+    "email": "wileynathan@example.com",
+    "age": 23,
+    "city": "Lake Johnville",
+    "is_premium": false,
+    "purchases": [
+      "beyond",
+      "take",
+      "cultural"
+    ]
+  },
+  {
+    "customer_id": 57,
+    "name": "Robert Thornton",
+    "email": "ryan25@example.com",
+    "age": 35,
+    "city": "Toddburgh",
+    "is_premium": true,
+    "purchases": [
+      "his",
+      "effort",
+      "of",
+      "down"
+    ]
+  },
+  {
+    "customer_id": 58,
+    "name": "Taylor Guerrero",
+    "email": "aguirremonica@example.com",
+    "age": 26,
+    "city": "South Thomas",
+    "is_premium": false,
+    "purchases": [
+      "live"
+    ]
+  },
+  {
+    "customer_id": 59,
+    "name": "Tracy Garza",
+    "email": "zachary40@example.com",
+    "age": 64,
+    "city": "Lake Veronica",
+    "is_premium": false,
+    "purchases": [
+      "able",
+      "everybody",
+      "region",
+      "significant"
+    ]
+  },
+  {
+    "customer_id": 60,
+    "name": "Lance Davis",
+    "email": "vanessa05@example.net",
+    "age": 58,
+    "city": "South Ashley",
+    "is_premium": false,
+    "purchases": [
+      "reduce",
+      "about",
+      "challenge",
+      "quality"
+    ]
+  },
+  {
+    "customer_id": 61,
+    "name": "Jodi Coleman",
+    "email": "kimperry@example.com",
+    "age": 32,
+    "city": "West Lisafort",
+    "is_premium": true,
+    "purchases": [
+      "include"
+    ]
+  },
+  {
+    "customer_id": 62,
+    "name": "Robert Shelton",
+    "email": "nrobertson@example.org",
+    "age": 31,
+    "city": "North Gregoryberg",
+    "is_premium": true,
+    "purchases": [
+      "environmental",
+      "exist",
+      "model"
+    ]
+  },
+  {
+    "customer_id": 63,
+    "name": "Kimberly Freeman",
+    "email": "john86@example.org",
+    "age": 45,
+    "city": "Morganberg",
+    "is_premium": false,
+    "purchases": [
+      "though",
+      "wish"
+    ]
+  },
+  {
+    "customer_id": 64,
+    "name": "Wesley Montgomery",
+    "email": "thomas50@example.com",
+    "age": 31,
+    "city": "New Michaelmouth",
+    "is_premium": true,
+    "purchases": [
+      "day",
+      "pick",
+      "analysis",
+      "heavy"
+    ]
+  },
+  {
+    "customer_id": 65,
+    "name": "David Hunter",
+    "email": "robert47@example.org",
+    "age": 33,
+    "city": "West Katieton",
+    "is_premium": true,
+    "purchases": [
+      "example"
+    ]
+  },
+  {
+    "customer_id": 66,
+    "name": "Traci Johnson",
+    "email": "michael53@example.com",
+    "age": 43,
+    "city": "Wilsontown",
+    "is_premium": true,
+    "purchases": [
+      "assume",
+      "result",
+      "fear",
+      "nearly"
+    ]
+  },
+  {
+    "customer_id": 67,
+    "name": "Ashley Harris",
+    "email": "markblankenship@example.org",
+    "age": 62,
+    "city": "Lake Christopher",
+    "is_premium": true,
+    "purchases": [
+      "agent"
+    ]
+  },
+  {
+    "customer_id": 68,
+    "name": "Rachel Lopez",
+    "email": "william48@example.net",
+    "age": 64,
+    "city": "Reginashire",
+    "is_premium": false,
+    "purchases": [
+      "word",
+      "stage",
+      "campaign",
+      "fire"
+    ]
+  },
+  {
+    "customer_id": 69,
+    "name": "Linda Freeman",
+    "email": "orollins@example.org",
+    "age": 42,
+    "city": "Batesview",
+    "is_premium": true,
+    "purchases": [
+      "arm"
+    ]
+  },
+  {
+    "customer_id": 70,
+    "name": "Mikayla Ruiz",
+    "email": "sextonelizabeth@example.org",
+    "age": 44,
+    "city": "New Sherriville",
+    "is_premium": false,
+    "purchases": [
+      "history",
+      "truth",
+      "doctor",
+      "we"
+    ]
+  },
+  {
+    "customer_id": 71,
+    "name": "Bobby King",
+    "email": "zmcdonald@example.com",
+    "age": 22,
+    "city": "North Nicolefort",
+    "is_premium": true,
+    "purchases": [
+      "medical",
+      "commercial",
+      "message",
+      "letter"
+    ]
+  },
+  {
+    "customer_id": 72,
+    "name": "Shaun Tapia",
+    "email": "qcampbell@example.net",
+    "age": 42,
+    "city": "Anthonymouth",
+    "is_premium": false,
+    "purchases": [
+      "hope",
+      "natural",
+      "hair",
+      "far"
+    ]
+  },
+  {
+    "customer_id": 73,
+    "name": "Robert Smith",
+    "email": "kristi37@example.org",
+    "age": 60,
+    "city": "Liland",
+    "is_premium": false,
+    "purchases": [
+      "energy",
+      "finally",
+      "past"
+    ]
+  },
+  {
+    "customer_id": 74,
+    "name": "Susan Wood",
+    "email": "timothy20@example.com",
+    "age": 20,
+    "city": "South Karen",
+    "is_premium": true,
+    "purchases": [
+      "able",
+      "value"
+    ]
+  },
+  {
+    "customer_id": 75,
+    "name": "Jesus Blankenship",
+    "email": "anthonysantos@example.com",
+    "age": 47,
+    "city": "Kellystad",
+    "is_premium": true,
+    "purchases": [
+      "take"
+    ]
+  },
+  {
+    "customer_id": 76,
+    "name": "Maria Lambert",
+    "email": "vmcdowell@example.com",
+    "age": 40,
+    "city": "North Brandonberg",
+    "is_premium": false,
+    "purchases": [
+      "specific",
+      "camera",
+      "night",
+      "both"
+    ]
+  },
+  {
+    "customer_id": 77,
+    "name": "Rebecca Hill",
+    "email": "xadams@example.net",
+    "age": 45,
+    "city": "South Trevor",
+    "is_premium": true,
+    "purchases": [
+      "large",
+      "small",
+      "simply",
+      "act"
+    ]
+  },
+  {
+    "customer_id": 78,
+    "name": "Jill Anderson",
+    "email": "morrisrachael@example.net",
+    "age": 37,
+    "city": "Lake Patrick",
+    "is_premium": false,
+    "purchases": [
+      "into",
+      "option",
+      "final"
+    ]
+  },
+  {
+    "customer_id": 79,
+    "name": "Anne Nelson MD",
+    "email": "ingramdanielle@example.org",
+    "age": 54,
+    "city": "Adamhaven",
+    "is_premium": true,
+    "purchases": [
+      "point",
+      "really"
+    ]
+  },
+  {
+    "customer_id": 80,
+    "name": "Michael Powell",
+    "email": "duncanalexandra@example.com",
+    "age": 18,
+    "city": "Antoniofurt",
+    "is_premium": false,
+    "purchases": [
+      "eat",
+      "interview",
+      "future",
+      "agree"
+    ]
+  },
+  {
+    "customer_id": 81,
+    "name": "Scott Haas",
+    "email": "trevorballard@example.org",
+    "age": 41,
+    "city": "West Paul",
+    "is_premium": false,
+    "purchases": [
+      "pass",
+      "good"
+    ]
+  },
+  {
+    "customer_id": 82,
+    "name": "Joshua Poole",
+    "email": "jamesburgess@example.org",
+    "age": 59,
+    "city": "Rebeccastad",
+    "is_premium": true,
+    "purchases": [
+      "share",
+      "step"
+    ]
+  },
+  {
+    "customer_id": 83,
+    "name": "Martin Richardson",
+    "email": "davidcruz@example.com",
+    "age": 21,
+    "city": "Crystaltown",
+    "is_premium": false,
+    "purchases": [
+      "together",
+      "foreign",
+      "provide"
+    ]
+  },
+  {
+    "customer_id": 84,
+    "name": "Yvonne Hernandez",
+    "email": "mathew44@example.net",
+    "age": 39,
+    "city": "North Devin",
+    "is_premium": false,
+    "purchases": [
+      "single",
+      "nice",
+      "difficult"
+    ]
+  },
+  {
+    "customer_id": 85,
+    "name": "Kenneth Duncan",
+    "email": "brianna65@example.com",
+    "age": 21,
+    "city": "South Christopher",
+    "is_premium": false,
+    "purchases": [
+      "partner"
+    ]
+  },
+  {
+    "customer_id": 86,
+    "name": "Phillip Walker",
+    "email": "louiswright@example.com",
+    "age": 49,
+    "city": "East David",
+    "is_premium": true,
+    "purchases": [
+      "activity",
+      "computer",
+      "power"
+    ]
+  },
+  {
+    "customer_id": 87,
+    "name": "Joshua Miller",
+    "email": "kennethkim@example.com",
+    "age": 49,
+    "city": "Larrybury",
+    "is_premium": true,
+    "purchases": [
+      "marriage"
+    ]
+  },
+  {
+    "customer_id": 88,
+    "name": "Patricia Pham",
+    "email": "jthomas@example.org",
+    "age": 47,
+    "city": "Clarkshire",
+    "is_premium": true,
+    "purchases": [
+      "here",
+      "purpose"
+    ]
+  },
+  {
+    "customer_id": 89,
+    "name": "Alexis Poole",
+    "email": "jason24@example.net",
+    "age": 28,
+    "city": "South Lynn",
+    "is_premium": true,
+    "purchases": [
+      "event",
+      "million"
+    ]
+  },
+  {
+    "customer_id": 90,
+    "name": "Angel Lynch",
+    "email": "catherinepotter@example.net",
+    "age": 30,
+    "city": "Odonnellton",
+    "is_premium": false,
+    "purchases": [
+      "door",
+      "prevent",
+      "seven"
+    ]
+  },
+  {
+    "customer_id": 91,
+    "name": "Amanda Jones",
+    "email": "donna30@example.com",
+    "age": 29,
+    "city": "Conwayberg",
+    "is_premium": true,
+    "purchases": [
+      "majority"
+    ]
+  },
+  {
+    "customer_id": 92,
+    "name": "Mark Baker",
+    "email": "fkane@example.org",
+    "age": 44,
+    "city": "Port Wesleyburgh",
+    "is_premium": true,
+    "purchases": [
+      "test",
+      "win"
+    ]
+  },
+  {
+    "customer_id": 93,
+    "name": "Ryan Warren",
+    "email": "wjohnson@example.com",
+    "age": 54,
+    "city": "East Mathewchester",
+    "is_premium": true,
+    "purchases": [
+      "nice"
+    ]
+  },
+  {
+    "customer_id": 94,
+    "name": "Mark Dawson",
+    "email": "idurham@example.com",
+    "age": 23,
+    "city": "Lake Jorge",
+    "is_premium": true,
+    "purchases": [
+      "camera"
+    ]
+  },
+  {
+    "customer_id": 95,
+    "name": "Jenna Brown",
+    "email": "mccalldavid@example.net",
+    "age": 18,
+    "city": "Shellyburgh",
+    "is_premium": false,
+    "purchases": [
+      "feeling",
+      "boy"
+    ]
+  },
+  {
+    "customer_id": 96,
+    "name": "Donald Black",
+    "email": "stewartjuan@example.org",
+    "age": 29,
+    "city": "North Jacob",
+    "is_premium": false,
+    "purchases": [
+      "right",
+      "today",
+      "light"
+    ]
+  },
+  {
+    "customer_id": 97,
+    "name": "Elizabeth Mason",
+    "email": "frederickwoodard@example.com",
+    "age": 36,
+    "city": "Cynthiaside",
+    "is_premium": false,
+    "purchases": [
+      "job",
+      "employee",
+      "close"
+    ]
+  },
+  {
+    "customer_id": 98,
+    "name": "Kayla Jones",
+    "email": "hendersonvalerie@example.org",
+    "age": 64,
+    "city": "Sethshire",
+    "is_premium": false,
+    "purchases": [
+      "group"
+    ]
+  },
+  {
+    "customer_id": 99,
+    "name": "Chelsey Ritter",
+    "email": "wlong@example.net",
+    "age": 41,
+    "city": "West Melissaberg",
+    "is_premium": false,
+    "purchases": [
+      "prepare"
+    ]
+  },
+  {
+    "customer_id": 100,
+    "name": "Derek Gomez",
+    "email": "ellisrichard@example.org",
+    "age": 33,
+    "city": "Port Rhonda",
+    "is_premium": true,
+    "purchases": [
+      "few",
+      "foreign",
+      "customer",
+      "single"
+    ]
+  }
+]

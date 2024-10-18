@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vladimirgrigoryev/Projects/KDZ_3_1/KDZ_3_1/KDZ_3_1.csproj": {}
+  },
+  "projects": {
+    "/Users/vladimirgrigoryev/Projects/KDZ_3_1/ClassLibrary/ClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vladimirgrigoryev/Projects/KDZ_3_1/ClassLibrary/ClassLibrary.csproj",
+        "projectName": "ClassLibrary",
+        "projectPath": "/Users/vladimirgrigoryev/Projects/KDZ_3_1/ClassLibrary/ClassLibrary.csproj",
+        "packagesPath": "/Users/vladimirgrigoryev/.nuget/packages/",
+        "outputPath": "/Users/vladimirgrigoryev/Projects/KDZ_3_1/ClassLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vladimirgrigoryev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/vladimirgrigoryev/Projects/KDZ_3_1/KDZ_3_1/KDZ_3_1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vladimirgrigoryev/Projects/KDZ_3_1/KDZ_3_1/KDZ_3_1.csproj",
+        "projectName": "KDZ_3_1",
+        "projectPath": "/Users/vladimirgrigoryev/Projects/KDZ_3_1/KDZ_3_1/KDZ_3_1.csproj",
+        "packagesPath": "/Users/vladimirgrigoryev/.nuget/packages/",
+        "outputPath": "/Users/vladimirgrigoryev/Projects/KDZ_3_1/KDZ_3_1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vladimirgrigoryev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/vladimirgrigoryev/Projects/KDZ_3_1/ClassLibrary/ClassLibrary.csproj": {
+                "projectPath": "/Users/vladimirgrigoryev/Projects/KDZ_3_1/ClassLibrary/ClassLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
